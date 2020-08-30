@@ -8,8 +8,8 @@
 
 ## Описание процесса тестирования
 
-В процессе тестирования использовались следующие артефакт:
-* чек-лист
+В процессе тестирования использовался следующий артефакт:
+* чек-лист (https://github.com/d-AMigo/KeyValidator/blob/master/Chek-list%20for%20KeyValidator.docx)
 
 В качестве тестовых данных использовались данные «Руководство использования KeyValidator» (https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md):
 * 8f05e6a7-70e9-33d7-bfe7-b19eae0d8998
